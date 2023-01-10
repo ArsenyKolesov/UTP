@@ -21,6 +21,7 @@ public class Main {
             max=a4;}
         System.out.println("Максимальное число:"+max);
         }
+    
     }
 
 
