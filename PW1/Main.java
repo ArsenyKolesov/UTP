@@ -11,13 +11,13 @@ public class Main {
         System.out.println("Введите четвертое число:");
         int a4=scan.nextInt();
         int max=-2147483648;
-        if (max<a1) {
+        if (max<a1){
             max=a1;}
-        if (max<a2) {
+        if (max<a2){
             max=a2;}
-        if (max<a3) {
+        if (max<a3){
             max=a3;}
-        if (max<a4) {
+        if (max<a4){
             max=a4;}
         System.out.println("Максимальное число:"+max);
         }
